@@ -1,6 +1,6 @@
 # Portfolio of Feena Fung
 
-This project is a React web application for Feena Fung's portfolio.
+This project is the build version of a React web application for Feena Fung's portfolio.
 
 ### Getting Started
 
