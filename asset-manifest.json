@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/feena-fung/static/css/main.d391c814.css",
-    "main.js": "/feena-fung/static/js/main.35e9fc50.js",
+    "main.js": "/feena-fung/static/js/main.a47ff1e2.js",
     "static/js/288.2295dfbc.chunk.js": "/feena-fung/static/js/288.2295dfbc.chunk.js",
     "static/media/screen1.jpeg": "/feena-fung/static/media/screen1.c4cfcc2f3be2fa4e89ed.jpeg",
     "static/media/profile.jpeg": "/feena-fung/static/media/profile.0f35daeff56fa971b6e5.jpeg",
@@ -16,11 +16,11 @@
     "static/media/coffee.jpg": "/feena-fung/static/media/coffee.47055fcc6f6644eb8569.jpg",
     "index.html": "/feena-fung/index.html",
     "main.d391c814.css.map": "/feena-fung/static/css/main.d391c814.css.map",
-    "main.35e9fc50.js.map": "/feena-fung/static/js/main.35e9fc50.js.map",
+    "main.a47ff1e2.js.map": "/feena-fung/static/js/main.a47ff1e2.js.map",
     "288.2295dfbc.chunk.js.map": "/feena-fung/static/js/288.2295dfbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d391c814.css",
-    "static/js/main.35e9fc50.js"
+    "static/js/main.a47ff1e2.js"
   ]
 }
