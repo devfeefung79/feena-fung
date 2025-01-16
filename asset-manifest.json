@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/feena-fung/static/css/main.7c1235ec.css",
-    "main.js": "/feena-fung/static/js/main.b34ad5fc.js",
+    "main.css": "/feena-fung/static/css/main.93e7b14f.css",
+    "main.js": "/feena-fung/static/js/main.7b367d76.js",
     "static/js/453.1322ce24.chunk.js": "/feena-fung/static/js/453.1322ce24.chunk.js",
     "static/media/screen1.jpeg": "/feena-fung/static/media/screen1.c4cfcc2f3be2fa4e89ed.jpeg",
     "static/media/profile.jpeg": "/feena-fung/static/media/profile.0f35daeff56fa971b6e5.jpeg",
@@ -15,12 +15,12 @@
     "static/media/work.jpeg": "/feena-fung/static/media/work.29953cf878a5771d6668.jpeg",
     "static/media/coffee.jpg": "/feena-fung/static/media/coffee.47055fcc6f6644eb8569.jpg",
     "index.html": "/feena-fung/index.html",
-    "main.7c1235ec.css.map": "/feena-fung/static/css/main.7c1235ec.css.map",
-    "main.b34ad5fc.js.map": "/feena-fung/static/js/main.b34ad5fc.js.map",
+    "main.93e7b14f.css.map": "/feena-fung/static/css/main.93e7b14f.css.map",
+    "main.7b367d76.js.map": "/feena-fung/static/js/main.7b367d76.js.map",
     "453.1322ce24.chunk.js.map": "/feena-fung/static/js/453.1322ce24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c1235ec.css",
-    "static/js/main.b34ad5fc.js"
+    "static/css/main.93e7b14f.css",
+    "static/js/main.7b367d76.js"
   ]
 }
