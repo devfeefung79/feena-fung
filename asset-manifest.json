@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/feena-fung/static/css/main.630511c0.css",
+    "main.css": "/feena-fung/static/css/main.c4568eb5.css",
     "main.js": "/feena-fung/static/js/main.de4c28d4.js",
     "static/js/453.1322ce24.chunk.js": "/feena-fung/static/js/453.1322ce24.chunk.js",
     "static/media/profile-3.jpg": "/feena-fung/static/media/profile-3.fbc17f39d270b4b1a2d4.jpg",
@@ -15,12 +15,12 @@
     "static/media/work.jpeg": "/feena-fung/static/media/work.29953cf878a5771d6668.jpeg",
     "static/media/coffee.jpg": "/feena-fung/static/media/coffee.47055fcc6f6644eb8569.jpg",
     "index.html": "/feena-fung/index.html",
-    "main.630511c0.css.map": "/feena-fung/static/css/main.630511c0.css.map",
+    "main.c4568eb5.css.map": "/feena-fung/static/css/main.c4568eb5.css.map",
     "main.de4c28d4.js.map": "/feena-fung/static/js/main.de4c28d4.js.map",
     "453.1322ce24.chunk.js.map": "/feena-fung/static/js/453.1322ce24.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.630511c0.css",
+    "static/css/main.c4568eb5.css",
     "static/js/main.de4c28d4.js"
   ]
 }
